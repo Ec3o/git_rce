@@ -1,3 +1,4 @@
 [submodule "x/y"]
 	path = A/modules/x
 	url = git@github.com:Ec3o/hook
+	branch = main
